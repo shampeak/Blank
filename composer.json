@@ -1,0 +1,16 @@
+{
+    "name": "grace/blank",
+    "type": "library",
+    "description": "Blank",
+    "keywords": ["Blank"],
+    "homepage": "http://github.com/Blank/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shampeak"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
